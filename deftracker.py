@@ -1,5 +1,5 @@
 import os
-os.system('sh setup.sh')
+os.system('setup.sh')
 
 import pandas as pd
 import streamlit as st
