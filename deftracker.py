@@ -25,7 +25,7 @@ def search_data(entries, data):
     return results
 
 # Streamlit app
-st.title('Quick Look Application')
+st.title('QFM Def Tracker')
 
 # File uploader
 uploaded_file = st.file_uploader("Upload your Excel file", type=['xlsx'])
